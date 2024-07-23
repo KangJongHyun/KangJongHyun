@@ -1,9 +1,11 @@
-## Hi there 👋
+## Kang,JongHyun 👋
 
 # 💪Skills
 ### Platforms & Languages
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
