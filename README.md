@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 -->
 [![Solved.ac
 yuri7579](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+
+
+
+
+
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKangJongHyun&count_bg=%238764A4&title_bg=%23C17CCA&icon=github.svg&icon_color=%23EEEEEE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
