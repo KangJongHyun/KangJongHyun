@@ -1,4 +1,6 @@
 ## Kang,JongHyun 👋
+![Jong Hyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangJongHyun&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuri7579)](https://solved.ac/yuri7579/)
 
 # 💪Skills
 ### Platforms & Languages
@@ -12,7 +14,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuri7579)](https://solved.ac/yuri7579/)
 
 
 
